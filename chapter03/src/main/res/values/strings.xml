@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">chapter03</string>
+    <string name="hello">ようこそ、妖精ちゃん</string>
+    <string name="bye">さようなら、妖精ちゃん</string>
+    <string name="result">ここでテストボタンのクリック結果を確認します</string>
+</resources>

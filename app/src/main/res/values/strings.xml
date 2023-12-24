@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="activity_main2">ジャンプ</string>
+    <string name="activity_main2_text">こんにちは、ザ・ワールド</string>
+    <string name="activity_main_text">こんにちは、妖精ちゃん</string>
+</resources>
