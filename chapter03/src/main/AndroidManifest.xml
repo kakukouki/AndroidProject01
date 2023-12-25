@@ -9,10 +9,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".ActReceiveActivity"
+            android:exported="false" />
+        <activity
             android:name=".TurnActivity"
             android:exported="false" />
         <activity
-            android:name=".ButtonEnableActivity"
+            android:name=".ActSendActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
