@@ -3,4 +3,15 @@
     <string name="hello">ようこそ、妖精ちゃん</string>
     <string name="bye">さようなら、妖精ちゃん</string>
     <string name="result">ここでテストボタンのクリック結果を確認します</string>
+    <string name="login_by_password">パスワード ログイン</string>
+    <string name="login_by_verifycode">認証コード ログイン</string>
+    <string name="phone_number">&#160;&#160;&#160;&#160;電話番号：</string>
+    <string name="input_phone_number">電話番号を入力してください</string>
+    <string name="input_password">パスワードを入力してください</string>
+    <string name="password">パスワード：</string>
+    <string name="login">ログイン</string>
+    <string name="verifycode">認証コード：</string>
+    <string name="input_verifycode">認証コードを入力してください</string>
+    <string name="get_verifycode">認証コードを取得する</string>
+    <string name="forget_password">忘れの方はこちら</string>
 </resources>
